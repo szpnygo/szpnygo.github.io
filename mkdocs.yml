@@ -2,6 +2,7 @@ site_name: NeoSu
 
 nav:
   - Home: index.md
+  - Blog: blog/index.md
   - About: about.md
 
 theme:
